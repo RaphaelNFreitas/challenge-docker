@@ -13,7 +13,7 @@ The project container must have a maximum size of 2 MB.
 ```
 git clone https://github.com/RaphaelNFreitas/challenge-docker.git
 
-cd fullcycle-desafio-docker
+cd challenge-docker
 
 docker build -t [name-image]:[version] .
 
