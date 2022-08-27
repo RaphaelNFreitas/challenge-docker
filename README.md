@@ -19,3 +19,14 @@ docker build -t [name-image]:[version] .
 
 docker run --rm [name-image]
 ```
+
+
+### Docker hub 
+
+https://hub.docker.com/r/raphaelnfreitas/desafio-docker
+
+
+### Command online
+```
+docker pull raphaelnfreitas/desafio-docker
+```
